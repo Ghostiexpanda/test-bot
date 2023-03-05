@@ -153,3 +153,91 @@
     at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
     at new Promise (<anonymous>)
     at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:26:5926 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:29:5929 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:33:5933 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:36:5936 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:39:5939 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:42:5942 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:45:5945 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:49:5949 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)

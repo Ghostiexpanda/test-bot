@@ -171,3 +171,134 @@
 [36minfo[39m  - 04-03-2023 21:32:13:3213 : [36mconnected to the database successfully[39m 
 [37mdebug[39m  - 04-03-2023 21:32:14:3214 : [37mSuccessfully reloaded slash commands.[39m 
 [37mdebug[39m  - 04-03-2023 21:32:14:3214 : [37mSuccessfully reloaded slash commands.[39m 
+[31merror[39m  - 04-03-2023 23:59:26:5926 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:29:5929 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:33:5933 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:36:5936 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:39:5939 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:42:5942 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:45:5945 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[31merror[39m  - 04-03-2023 23:59:49:5949 : [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ethan\OneDrive\Documents\New folder (2)\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+[36minfo[39m  - 05-03-2023 00:00:38:038 : [36mLogged in as Testbot. Ready on 2 servers, for a total of 1 users[39m 
+[37mdebug[39m  - 05-03-2023 00:00:38:038 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:00:38:038 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:00:38:038 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:00:39:039 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 05-03-2023 00:00:40:040 : [36mconnected to the database successfully[39m 
+[37mdebug[39m  - 05-03-2023 00:00:40:040 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 05-03-2023 00:01:00:10 : [36mconnected to the database successfully[39m 
+[36minfo[39m  - 05-03-2023 00:01:01:11 : [36mLogged in as Testbot. Ready on 2 servers, for a total of 1 users[39m 
+[37mdebug[39m  - 05-03-2023 00:01:01:11 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:01:01:11 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:01:01:11 : [37mRefreshing slash commands...[39m 
+[36minfo[39m  - 05-03-2023 00:01:08:18 : [36mconnected to the database successfully[39m 
+[36minfo[39m  - 05-03-2023 00:01:08:18 : [36mLogged in as Testbot. Ready on 2 servers, for a total of 1 users[39m 
+[37mdebug[39m  - 05-03-2023 00:01:08:18 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:01:08:18 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:01:08:18 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:02:10:210 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 05-03-2023 00:02:10:210 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 05-03-2023 00:03:12:312 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 05-03-2023 00:03:13:313 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 05-03-2023 00:04:43:443 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 05-03-2023 00:04:44:444 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 05-03-2023 00:12:28:1228 : [36mLogged in as Testbot. Ready on 2 servers, for a total of 1 users[39m 
+[37mdebug[39m  - 05-03-2023 00:12:28:1228 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:12:28:1228 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:12:28:1228 : [37mRefreshing slash commands...[39m 
+[36minfo[39m  - 05-03-2023 00:12:29:1229 : [36mconnected to the database successfully[39m 
+[37mdebug[39m  - 05-03-2023 00:12:29:1229 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 05-03-2023 00:12:30:1230 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 05-03-2023 00:12:41:1241 : [36mLogged in as Testbot. Ready on 2 servers, for a total of 1 users[39m 
+[37mdebug[39m  - 05-03-2023 00:12:41:1241 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:12:41:1241 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:12:41:1241 : [37mRefreshing slash commands...[39m 
+[36minfo[39m  - 05-03-2023 00:12:41:1241 : [36mconnected to the database successfully[39m 
+[37mdebug[39m  - 05-03-2023 00:14:00:140 : [37mSuccessfully reloaded slash commands.[39m 
+[37mdebug[39m  - 05-03-2023 00:14:01:141 : [37mSuccessfully reloaded slash commands.[39m 
+[36minfo[39m  - 05-03-2023 00:14:36:1436 : [36mLogged in as Testbot. Ready on 2 servers, for a total of 1 users[39m 
+[37mdebug[39m  - 05-03-2023 00:14:36:1436 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:14:36:1436 : [37mRefreshing slash commands...[39m 
+[37mdebug[39m  - 05-03-2023 00:14:36:1436 : [37mRefreshing slash commands...[39m 
+[36minfo[39m  - 05-03-2023 00:14:37:1437 : [36mconnected to the database successfully[39m 
+[37mdebug[39m  - 05-03-2023 00:14:37:1437 : [37mSuccessfully reloaded slash commands.[39m 
